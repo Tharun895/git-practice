@@ -1,1 +1,2 @@
 Learning Git is awesome!
+I just added a second line to file using git
